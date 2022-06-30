@@ -1,6 +1,6 @@
 Educate Everyone Website - Full stack application!
 
-Educate  Everyone is an educational website created for under-priveleged kids.
+Educate  Everyone is an educational website created for underprivileged kids.
 It consists of an educational portal where teachers can upload youtube video content and quizzes and students can use them to learn and grow.
 MEVN stack has been used for implementing the website.
 Authentication has been done using the JWT. Backend is in Node with RESTful API.
