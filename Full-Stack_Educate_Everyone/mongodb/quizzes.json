@@ -1,0 +1,89 @@
+[
+	{
+		"quizTitle": "Articles",
+		"category": "English",
+		"quizContent": [
+            {
+               "question": "...... apple a day keeps the doctor away.",
+               "correct_answer": "An",
+               "incorrect_answer":["The","Is", "A"]
+            },
+            {
+                "question": "Can you please help me pick out ...... birthday present for my father? ",
+                "correct_answer": "a",
+                "incorrect_answer":["an","is", "the"]
+             },
+             {
+                "question": ".... President of the United States will be visiting Australia next week.",
+                "correct_answer": "The",
+                "incorrect_answer":["An","Are", "A"]
+             },
+             {
+                "question": "I want to buy .... laptop computer next week.",
+                "correct_answer": "a",
+                "incorrect_answer":["A","the", "an"]
+             },
+             {
+                "question": "Can you please go to ..... grocery store on Fifth Street and buy 2 cartons of milk?",
+                "correct_answer": "the",
+                "incorrect_answer":["The","an", "a"]
+             }
+        ]
+	},
+    {
+		"quizTitle": "Human Body",
+		"category": "Science",
+		"quizContent": [
+            {
+               "question": "Which organ in the human body pumps blood?",
+               "correct_answer": "Heart",
+               "incorrect_answer":["Intestines","Liver", "Kidney"]
+            },
+            {
+                "question": "Which of these organs is used for breathing?",
+                "correct_answer": "Lungs",
+                "incorrect_answer":["Nose","Legs", "Liver"]
+             },
+             {
+                "question": "Which of these organs can grow back again if some of it is removed?",
+                "correct_answer": "Liver",
+                "incorrect_answer":["Kidney","Heart", "Brain"]
+             },
+             {
+                "question": "Which of these organs is vital for thinking?",
+                "correct_answer": "Brain",
+                "incorrect_answer":["Heart","Legs", "Lungs"]
+             },
+             {
+                "question": "Which of these sense organs helps with vision?",
+                "correct_answer": "Eyes",
+                "incorrect_answer":["Ears","Tounge", "Nose"]
+             },
+             {
+                "question": "Which of these sense organs is vital for your sense of smell?",
+                "correct_answer": "Nose",
+                "incorrect_answer":["Eats","Eyes", "Tongue"]
+             },
+             {
+                "question": "Which of these sense organs helps us to hear?",
+                "correct_answer": "Ears",
+                "incorrect_answer":["Nose","Mouth", "Eyes"]
+             },
+             {
+                "question": "Which of these sense organs helps us to swallow food?",
+                "correct_answer": "Tongue",
+                "incorrect_answer":["Ears","Nose", "Eyes"]
+             },
+             {
+                "question": "Which of these organs helps to purify blood?",
+                "correct_answer": "Kidneys",
+                "incorrect_answer":["Heart","Lungs", "Alveoli"]
+             },
+             {
+                "question": "Which of these sense organs covers our skeletal system?",
+                "correct_answer": "Skin",
+                "incorrect_answer":["Mouth","Heart", "Stomach"]
+             }
+        ]
+	}
+]
